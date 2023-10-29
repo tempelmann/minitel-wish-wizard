@@ -1,4 +1,4 @@
-#/usr/bin/python3
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # ré-écritude en python3 de Cristel/Dragster !
 # (C) 1984-2017 Christian Quest / A-GPL
