@@ -1,4 +1,4 @@
-#/usr/bin/python3
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 # V1.4 database prefs replaced by settings.ini file
 # Thanks to Ocean, JS, Montaulab, Claudine, CQuest, Musée du minitel....
